@@ -1,0 +1,1 @@
+go build -i -mod=vendor GetHot.go
