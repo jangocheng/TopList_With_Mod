@@ -1,4 +1,3 @@
 # TopList_With_Mod
-TopList With go mod  and vendor
-fork from TopList
+fork from TopList \n\r
 change the gopath to go mod and vendor
